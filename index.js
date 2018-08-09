@@ -18,7 +18,8 @@ function johnLennonFacts(facts){
   while(count < factiod.length){
     var excited = factiod[count] + "!!!";
     newFacts.push(excited);
-    
+    count++;
+  return newFacts;
   }
 }
 
