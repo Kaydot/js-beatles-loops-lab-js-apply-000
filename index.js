@@ -5,10 +5,11 @@ function theBeatlesPlay(musicians,instruments){
     
     
     for (names = 0; names< musicians.length; names++) { 
-    emptyInfo.push(musicians [names] + instruments[names]);
+    emptyInfo.push(musicians [names] + " plays " + instruments[names]);
       
     }
     return emptyInfo;
+}
 
     
   
