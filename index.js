@@ -19,8 +19,9 @@ function johnLennonFacts(facts){
     var excited = factiod[count] + "!!!";
     newFacts.push(excited);
     count++;
-  return newFacts;
+    
   }
+  return newFacts;
 }
 
  
