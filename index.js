@@ -28,4 +28,5 @@ function johnLennonFacts(facts){
    var sayIt =[];
    do {sayIt.push("I love the Beatles!")
  }
+   while
 }
